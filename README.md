@@ -1,14 +1,14 @@
-###Welcome to My Place 😊
+Welcome to My Place 😊
 
 
 
-##🌟 About Me
+# 🌟 About Me
 
 Hi there! I am a passionate QA specialist skilled in both manual and automated testing. My mission is to ensure flawless software quality, streamline testing processes, and continuously explore innovative tools and methods to elevate quality assurance.
 
-🛠️ Skills
+## 🛠️ Skills
 
-Manual Testing
+### Manual Testing
 
 🔍 Analyzing requirements and creating test scenarios
 
@@ -16,7 +16,7 @@ Manual Testing
 
 🐞 Crafting detailed bug reports and managing defect tracking
 
-Automated Testing
+### Automated Testing
 
 Languages: JavaScript/TypeScript
 
@@ -26,15 +26,11 @@ Tools: Playwright, Cypress, Selenium, Postman
 
 🌐 Covering UI, API, and end-to-end testing
 
-
-
-🚀 Projects
+### 🚀 Projects
 
 ...
 
-
-
-⚙️ Tools I Love
+## ⚙️ Tools I Love
 
 Test Management: Notion, Jira
 
@@ -44,7 +40,7 @@ API Testing: Postman
 
 CI/CD: GitHub Actions
 
-✉️ Let’s Connect!
+## ✉️ Let’s Connect!
 
 ✨ Always open to exciting projects and challenges! Feel free to reach out via:
 
@@ -54,6 +50,4 @@ CI/CD: GitHub Actions
 
 🖥️ GitHub: github.com/BaneVredniMrav
 
-
-
-Thanks for stopping by! 💻✨
+## Thanks for stopping by! 💻✨
