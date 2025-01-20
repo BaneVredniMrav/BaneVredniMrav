@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-  # Welcome to My Place 😊
-</div>
+                                                                                                        # Welcome to My Place 😊
 
 
 
