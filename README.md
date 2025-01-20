@@ -40,14 +40,6 @@ API Testing: Postman
 
 CI/CD: GitHub Actions
 
-## ✉️ Let’s Connect!
 
-✨ Always open to exciting projects and challenges! Feel free to reach out via:
-
-📧 Email: branko1989stankovic@gmail.com
-
-💼 LinkedIn: ...
-
-🖥️ GitHub: github.com/BaneVredniMrav
 
 ## Thanks for stopping by! 💻✨
