@@ -1,8 +1,8 @@
-Welcome to My Place 😊
+###Welcome to My Place 😊
 
 
 
-🌟 About Me
+##🌟 About Me
 
 Hi there! I am a passionate QA specialist skilled in both manual and automated testing. My mission is to ensure flawless software quality, streamline testing processes, and continuously explore innovative tools and methods to elevate quality assurance.
 
