@@ -1,5 +1,5 @@
 # Welcome to My Place 😊
-
+![Opis slike](putanja_do_slike)
 
 
 ## 🌟 About Me
