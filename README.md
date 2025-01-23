@@ -1,5 +1,4 @@
 # Welcome to My Place 😊
-![Opis slike](vredni_mrav.webp)
 
 
 ## 🌟 About Me
