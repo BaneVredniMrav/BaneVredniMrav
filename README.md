@@ -1,44 +1,23 @@
-# Welcome to My Place 😊
+# 👋 Hello, I'm BaneVredniMrav!
 
+## 🛠️ QA Engineer | Manual & Automation Testing
 
-## 🌟 About Me
+Passionate about software quality, I focus on improving testing processes and enhancing user experience. Mid-level QA engineer, specializing in automated and manual testing
 
-Hi there! I am a passionate QA specialist skilled in both manual and automated testing. My mission is to ensure flawless software quality, streamline testing processes, and continuously explore innovative tools and methods to elevate quality assurance.
+### 🔹 Tools & Technologies I Use:
+- **Test Automation:** Playwright, Cypress, Selenium
+- **Test Management & Collaboration:** Jira, Notion, TestRail
+- **User Analytics & Session Tracking:** Amplitude, Intercom
+- **Development:** Basic programming and software development principles
+- **API Testing:** Postman
+- **CI/CD:** GitHub Actions
 
-## 🛠️ Skills
+### 🚀 What I Do:
+- Develop and maintain automated tests
+- Perform manual testing to cover edge cases and ensure software reliability
+- Manage test cases and workflows 
 
-### Manual Testing
-
-🔍 Analyzing requirements and creating test scenarios
-
-✅ Conducting functional, regression, and exploratory testing
-
-🐞 Crafting detailed bug reports and managing defect tracking
-
-### Automated Testing
-
-Languages: JavaScript/TypeScript
-
-Tools: Playwright, Cypress, Selenium, Postman
-
-🤖 Developing and maintaining test scripts
-
-🌐 Covering UI, API, and end-to-end testing
-
-### 🚀 Projects
-
-...
-
-## ⚙️ Tools I Love
-
-Test Management: Notion, Jira
-
-Automation: Playwright, Cypress, Selenium
-
-API Testing: Postman
-
-CI/CD: GitHub Actions
-
-
-
-## Thanks for stopping by! 💻✨
+### 📫 Get in Touch:
+- 💼 **GitHub:** [BaneVredniMrav](https://github.com/BaneVredniMrav)
+  
+Always open to new projects, ideas, and knowledge sharing! 🚀
