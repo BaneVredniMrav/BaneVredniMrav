@@ -20,4 +20,3 @@ Passionate about software quality, I focus on improving testing processes and en
 ### 📫 Get in Touch:
 - 💼 **GitHub:** [BaneVredniMrav](https://github.com/BaneVredniMrav)
   
-Always open to new projects, ideas, and knowledge sharing! 🚀
