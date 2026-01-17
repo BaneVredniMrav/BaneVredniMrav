@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Branko!
+# 👋🏻 Hello, I'm Branko!
 
 ## 🛠️ QA Engineer | Manual & Automation Testing
 
@@ -24,6 +24,15 @@ Passionate about software quality with a focus on building reliable, maintainabl
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
+### 🤖 AI-Powered Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_AI-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+  <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/MCP-5A45FF?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP"/>
+</p>
+
 ---
 
 ### 🚀 What I Do
@@ -31,27 +40,18 @@ Passionate about software quality with a focus on building reliable, maintainabl
 - **Build & Maintain Test Frameworks** — Design scalable E2E and integration test suites using modern tools like Playwright
 - **Manual Testing** — Cover edge cases and exploratory scenarios to ensure software reliability
 - **Process Improvement** — Streamline QA workflows and integrate testing into CI/CD pipelines
+- **AI-Assisted QA** — Build custom MCP servers and leverage AI tools to accelerate test generation, debugging, and maintenance
 - **Collaboration** — Work closely with developers to catch bugs early and improve overall product quality
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Working At
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaneVredniMrav&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <a href="https://www.chess.com">
+    <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpmeXx6V.png" alt="Chess.com" width="100"/>
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaneVredniMrav&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 🏢 Currently Working At
-
-<a href="https://www.chess.com">
-  <img src="https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess.com"/>
-</a>
 
 ---
 
@@ -61,7 +61,8 @@ Passionate about software quality with a focus on building reliable, maintainabl
   <a href="https://github.com/BaneVredniMrav">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  &nbsp;
+  <a href="https://www.linkedin.com/in/branko89stankovic/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -69,9 +70,11 @@ Passionate about software quality with a focus on building reliable, maintainabl
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BaneVredniMrav&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <i>“We are what we repeatedly do. Excellence, then, is not an act, but a habit.” — Aristotle</i>
 </p>
 
+---
+
 <p align="center">
-  <i>"Quality is not an act, it is a habit." — Aristotle</i>
+  <img src="https://komarev.com/ghpvc/?username=BaneVredniMrav&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
