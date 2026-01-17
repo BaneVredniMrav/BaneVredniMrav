@@ -8,14 +8,21 @@ Passionate about software quality with a focus on building reliable, maintainabl
 
 ### 💻 Tech Stack
 
-| Category | Technologies |
-|----------|-------------|
-| **Test Automation** | Playwright, Cypress, Selenium |
-| **Languages** | TypeScript, JavaScript |
-| **API Testing** | Postman, REST APIs |
-| **CI/CD** | GitHub Actions |
-| **Test Management** | Jira, TestRail, Notion |
-| **Analytics** | Amplitude, Intercom |
+<p align="center">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
 
 ---
 
@@ -40,12 +47,30 @@ Passionate about software quality with a focus on building reliable, maintainabl
 
 ---
 
-### 📫 Let's Connect
+### 🏢 Currently Working At
 
-[![GitHub](https://img.shields.io/badge/GitHub-BaneVredniMrav-181717?style=for-the-badge&logo=github)](https://github.com/BaneVredniMrav)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
+<a href="https://www.chess.com">
+  <img src="https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess.com"/>
+</a>
 
 ---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/BaneVredniMrav">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BaneVredniMrav&style=for-the-badge&color=blue" alt="Profile Views"/>
+</p>
 
 <p align="center">
   <i>"Quality is not an act, it is a habit." — Aristotle</i>
