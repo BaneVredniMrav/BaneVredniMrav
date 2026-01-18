@@ -45,16 +45,6 @@ Passionate about software quality with a focus on building reliable, maintainabl
 
 ---
 
-### 🛠️ Working At
-
-<p align="center">
-  <a href="https://www.chess.com">
-    <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpmeXx6V.png" alt="Chess.com" width="100"/>
-  </a>
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
