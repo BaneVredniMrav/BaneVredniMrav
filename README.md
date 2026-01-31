@@ -69,18 +69,6 @@ I help product teams ship confidently by combining **robust automation**, **smar
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaneVredniMrav&show_icons=true&bg_color=0d1117&title_color=2EAD33&icon_color=2EAD33&text_color=C9D1D9&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BaneVredniMrav&background=0d1117&ring=2EAD33&fire=2EAD33&currStreakLabel=2EAD33&hide_border=true" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
