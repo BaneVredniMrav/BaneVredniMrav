@@ -1,6 +1,6 @@
 # 👋🏻 Hi, I'm Branko
 
-## 🧪 Playwright-First QA Engineer | Manual & Automation
+## 🧪 QA Engineer | Manual & Automation 
 
 QA Engineer focused on **end-to-end quality**, modern test automation, and fast feedback loops.  
 I help product teams ship confidently by combining **robust automation**, **smart manual testing**, and **data-driven validation**.
