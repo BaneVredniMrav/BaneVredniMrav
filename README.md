@@ -1,36 +1,60 @@
-# 👋🏻 Hello, I'm Branko!
+# 👋🏻 Hi, I'm Branko
 
-## 🛠️ QA Engineer | Manual & Automation Testing
+## 🧪 Playwright-First QA Engineer | Manual & Automation
 
-Passionate about software quality with a focus on building reliable, maintainable test automation frameworks. I enjoy turning repetitive testing tasks into efficient automated workflows and continuously improving testing processes.
+QA Engineer focused on **end-to-end quality**, modern test automation, and fast feedback loops.  
+I help product teams ship confidently by combining **robust automation**, **smart manual testing**, and **data-driven validation**.
 
 ---
 
-### 💻 Tech Stack
+## 🧪 Testing & Automation Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
+---
+
+## 💻 Languages & Development
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
 </p>
 
-### 🤖 AI-Powered Development
+---
+
+## 🔄 CI/CD & Collaboration
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude_AI-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
-  <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
-  <img src="https://img.shields.io/badge/MCP-5A45FF?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## 📊 Product Analytics & Quality Validation
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Amplitude-005AF0?style=for-the-badge&logo=amplitude&logoColor=white" />
+</p>
+
+---
+
+## 🤖 AI-Assisted QA
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20AI-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor%20IDE-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-5A45FF?style=for-the-badge" />
 </p>
 
 ---
@@ -42,6 +66,18 @@ Passionate about software quality with a focus on building reliable, maintainabl
 - **Process Improvement** — Streamline QA workflows and integrate testing into CI/CD pipelines
 - **AI-Assisted QA** — Build custom MCP servers and leverage AI tools to accelerate test generation, debugging, and maintenance
 - **Collaboration** — Work closely with developers to catch bugs early and improve overall product quality
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BaneVredniMrav&show_icons=true&bg_color=0d1117&title_color=2EAD33&icon_color=2EAD33&text_color=C9D1D9&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BaneVredniMrav&background=0d1117&ring=2EAD33&fire=2EAD33&currStreakLabel=2EAD33&hide_border=true" />
+</p>
 
 ---
 
